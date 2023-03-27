@@ -10,7 +10,7 @@
 # ;12e123/>ąśdaadsąź
 # student@uczelnia.pl
 # 1-]923eu22@@11
-# s21974@pjwstk.edu.pl
+# jan.kowalski@serwer.org.pl
 #
 # lista adresow email znajduje sie w pliku ($plik)
 
