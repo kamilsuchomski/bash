@@ -5,7 +5,7 @@
 # jesli nie, to sprawdza czy podano argument i wykona plik o nazwie takiej jak argument skryptu
 # jesli zadne z powyzszych nie nastapilo, wyswietla komunikat o bledzie
 
-plik="SOP_display.sh"
+plik="skrypt.sh"
 
 if [ -e "$PWD/$plik" ] ; then	
 	
